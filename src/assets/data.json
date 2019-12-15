@@ -1,0 +1,60 @@
+{
+    "list": [
+        "G1": {
+            "name": "Qoraqalpog‘iston Respublikasi",
+            "pupil": 325297
+        },
+        "G1": {
+            "name": "Andijon viloyati",
+            "pupil": 532658
+        },
+        "G1": {
+            "name": "Buxoro viloyati",
+            "pupil": 315284
+        },
+        "G1": {
+            "name": "Jizzax viloyati",
+            "pupil": 247453
+        },
+        "G1": {
+            "name": "Qashqadaryo viloyati",
+            "pupil": 600776
+        },
+        "G1": {
+            "name": "Navoiy viloyati",
+            "pupil": 172977
+        },
+        "G1": {
+            "name": "Namangan viloyati",
+            "pupil": 475480
+        },
+        "G1": {
+            "name": "Samarqand viloyati",
+            "pupil": 685233
+        },
+        "G1": {
+            "name": "Surxondaryo viloyati",
+            "pupil": 472445
+        },
+        "G1": {
+            "name": "Sirdaryo viloyati",
+            "pupil": 150062
+        },
+        "G1": {
+            "name": "Toshkent viloyati",
+            "pupil": 480707
+        },
+        "G1": {
+            "name": "Farg‘ona viloyati",
+            "pupil": 626617
+        },
+        "G1": {
+            "name": "Xorazm viloyati",
+            "pupil": 341813
+        }
+        "G1": {
+            "name": "Toshkent shahri",
+            "pupil": 429253
+        }
+    ]
+}
